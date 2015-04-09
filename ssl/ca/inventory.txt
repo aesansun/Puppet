@@ -1,0 +1,7 @@
+0x0001 2015-04-08T18:09:13UTC 2020-04-07T18:09:13UTC /CN=Puppet CA generated on puppetmstr2.nyc.angelogordon.com at 2015-04-09 14:09:09 -0400
+0x0002 2015-04-08T18:09:15UTC 2020-04-07T18:09:15UTC /CN=puppetmstr2.nyc.angelogordon.com
+0x0003 2015-04-08T18:09:22UTC 2020-04-07T18:09:22UTC /CN=pe-internal-mcollective-servers
+0x0004 2015-04-08T18:09:24UTC 2020-04-07T18:09:24UTC /CN=pe-internal-peadmin-mcollective-client
+0x0005 2015-04-08T18:09:26UTC 2020-04-07T18:09:26UTC /CN=pe-internal-puppet-console-mcollective-client
+0x0006 2015-04-08T18:09:31UTC 2020-04-07T18:09:31UTC /CN=pe-internal-dashboard
+0x0007 2015-04-08T18:09:34UTC 2020-04-07T18:09:34UTC /CN=pe-internal-classifier

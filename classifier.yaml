@@ -1,0 +1,3 @@
+server: puppetmstr2.nyc.angelogordon.com
+port: 4433
+prefix: /classifier-api
