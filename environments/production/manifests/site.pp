@@ -41,3 +41,7 @@ node default {
   #   class { 'my_class': }
 }
 
+node 'puppetmstr2.nyc.angelogordon.com' {
+  include ::base
+  notify { "Generated from our notify branch": }
+}
